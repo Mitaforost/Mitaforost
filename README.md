@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Danila 👋
 
-<!--
-**Mitaforost/Mitaforost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineer  
+💻 Junior Frontend Developer  
+🚀 Learning, practicing, and growing every day
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML / CSS / SCSS  
+- JavaScript / TypeScript  
+- React / Vue  
+- Git / GitHub  
+- REST API  
+- Figma (design thinking)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔗 [...](#)  
+- 🔗 [...](#)  
+- 🔗 [...](#)
+
+## 📫 Contact Me
+- Telegram: [@mitaforost](https://t.me/mitaforost)  
+- Email: zaharchuk.danila18@gmail.com
