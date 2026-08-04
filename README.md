@@ -13,10 +13,8 @@
 - Figma (design thinking)
 
 ## 📌 Projects
-- 🔗 [...](#)  
-- 🔗 [...](#)  
-- 🔗 [...](#)
+- [proflowers-minsk.by](https://proflowers-minsk.by/)
 
 ## 📫 Contact Me
 - Telegram: [@mitaforost](https://t.me/mitaforost)  
-- Email: zaharchuk.danila18@gmail.com
+- Email: [zaharchuk.danila18@gmail.com](mailto:zaharchuk.danila18@gmail.com)
