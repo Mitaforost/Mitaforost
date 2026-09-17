@@ -14,7 +14,7 @@
 
 ## 📌 Projects
 - [proflowers-minsk.by](https://proflowers-minsk.by/)
-- [proflowers-minsk.by](https://povod.by/)
+- [povod.by](https://povod.by/)
 
 ## 📫 Contact Me
 - Telegram: [@mitaforost](https://t.me/mitaforost)  
